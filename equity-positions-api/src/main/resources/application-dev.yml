@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+spring:
+  http.encoding.enabled: true
+  http.encoding.charset: UTF-8
